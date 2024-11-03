@@ -1,5 +1,5 @@
 def main():
-    print("I am changing this line in merge-example to create a merge issue!")
+    print("This is the main branch version.")
 
 if __name__ == "__main__":
     main()
